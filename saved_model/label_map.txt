@@ -1,0 +1,5 @@
+Bacteria,0
+Fungi,1
+Nematodes,2
+Normal,3
+Virus,4
